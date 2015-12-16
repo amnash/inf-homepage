@@ -68,7 +68,7 @@ pageContext = mconcat
                 dateField "date" "%B %e, %Y"
               , constField "keywords" "computer science,mathematics,programming languages,compilers,parallelism"
               , constField "fullname" "Daniel Hillerstr&#246;m"
-              , constField "position" "Research Postgraduate Student"                
+              , constField "position" "Jar Jar Binks"                
               , constField "description" "Research student at the University of Edinburgh"
               , constField "openGraphImage" "static/images/danielhillerstrom.jpg"
               , constField "office" "1.07/2"
